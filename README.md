@@ -1,1 +1,3 @@
-# Simple Library with various AsyncSequence Odds & Ends.
+# AsyncUtils
+
+Small Collection of Swift AsyncSequence Odds & Ends.
